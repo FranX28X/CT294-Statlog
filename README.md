@@ -1,2 +1,3 @@
 # CT332-Statlog
-Do an statlog
+Đồ án Statlog - Máy học ứng dụng
+
